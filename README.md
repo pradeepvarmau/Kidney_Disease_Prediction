@@ -30,7 +30,7 @@ To run the code in this repository, you will need:
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/CKD_Prediction.git
+   gh repo clone pradeepvarmau/Kidney_Disease_Prediction
    ```
 2. Navigate to the project directory:
    ```bash
