@@ -5,7 +5,7 @@ Sure, here’s a sample README file for a Chronic Kidney Disease Prediction proj
 
 # Chronic Kidney Disease Prediction
 
-![Kidney](https://img.icons8.com/external-wanicon-flat-wanicon/64/000000/external-kidneys-medical-wanicon-flat-wanicon.png)
+
 
 ## Overview
 This project aims to predict Chronic Kidney Disease (CKD) using machine learning techniques. Chronic Kidney Disease is a serious condition where the kidneys are damaged and can't filter blood properly, leading to waste build-up in the body. Early detection and prediction of CKD can significantly improve patient outcomes.
@@ -59,10 +59,3 @@ These results indicate that the Random Forest model performed the best for Chron
 ## Contributors
 - [Your Name](https://github.com/pradeepvarmau)
 - [Contributor Name](https://github.com/pradeepvarmau)
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this template with specific details about your project, dataset, and results. Let me know if you need more help!
